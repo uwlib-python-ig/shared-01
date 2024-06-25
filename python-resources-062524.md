@@ -1,4 +1,4 @@
-![image](https://github.com/uwlib-python-ig/shared-01/assets/100714621/baf48233-21de-4737-aa83-fd06adad1044)# Python resources
+# Python resources
 At the [20240606 meeting](https://github.com/uwlib-python-ig/meetings/blob/main/20240606_summer_check_in.md), there was interested in creating a set of shared resources for learning Python. This list is an attempt at that. 
 ## Learning Python
 ### Synchronous workshops
