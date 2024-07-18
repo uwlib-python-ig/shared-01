@@ -7,3 +7,5 @@ At the [20240606 meeting](https://github.com/uwlib-python-ig/meetings/blob/main/
 * [Learn Python the Hard Way](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99162775647501452) by Zed Shaw
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 * [Python Examples and Sample Code](https://wiki.python.org/moin/BeginnersGuide/Examples)
+* University of Illinois -- Prof Wickes has a list of [Python learning resources](https://elizabethwickes.com/pythonresources/)
+* Melanie Walsh, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
