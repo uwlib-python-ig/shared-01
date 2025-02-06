@@ -16,6 +16,4 @@ We will spend time during meetings going through the book -- no pre-work require
 ## 2 January 2025: canceled due to attendance
   
 ## 6 February 2025: Session 3
-* Working session as a group: Continue working through ["Anatomy of a Python Script"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) through ["Comparisons & Conditionals"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html).
-* Future meeting: Working session as a group: In Chapter 2, read and work through ["Lists & Loops"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) through ["What We're Not Covering"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/14-What-Were-Not-Covering.html).
-* Future meeting: In Chapter 3, read and work through ["Pandas Basics Part 1"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html) and ["Part 2"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html).
+* Pivoting to LinkedIn Learning
